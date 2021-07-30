@@ -66,7 +66,7 @@ window.others = {
       {
         "avatar": "avatars/others/avatar_27.png",
         "username": "Jane",
-        "text": "My name is Jane and I will soon have an important interview. This is all I can think about these days. I hope you're doing well",
+        "text": "My name is Jane and I will soon have an important test. This is all I can think about these days. I hope you're doing well",
         "likes": [10000, 50000] //6
       },
 
