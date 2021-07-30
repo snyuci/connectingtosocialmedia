@@ -9,40 +9,40 @@ window.others = {
         "text": "I'm a 19 year old dude from UC Irvine. I love music and lately you can catch me listening to nothing but Joy Division, Echo & the bunnymen, and the smiths. Besides music I like learning languages, psychology, drawing, and writing.",
         "likes": [45000, 50000, 110000, 150000] //4
       },
-      //{
-        //"avatar": "avatars/avatar_2.png",
-        //"username": "Sarah",
-        //"text": "Let me introduce myself. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        //"likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
-      //},
-      //{
-        //"avatar": "avatars/avatar_45.png",
-        //"username": "John",
-        //"text": "Hi there, I’m 57 years old, married, with two kids. I’ve been a computer programmer in the states for about 30 years, but don’t worry: I don’t have the dusty haircut, oversized buttoned shirt and nerdie big frame glasses. Looking forward to working with you all. Cheers, John",
+      {
+        "avatar": "avatars/avatar_2.png",
+        "username": "Sarah",
+        "text": "I’m Sarah. I started off as a history major but I recently switched to psychology. I want to get a job that helps young people with disabilities. During the pandemic I started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
+        "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+      },
+      {
+        "avatar": "avatars/avatar_45.png",
+        "username": "John",
+        "text": "Hi. I’m 21 years old. I’ve been a computer science major for about 3 years. Don’t worry, I don’t have the dusty haircut, oversized buttoned shirt and nerdy big frame glasses. Looking forward to getting some extra credit with you all. Cheers, John",
 		"likes": [20000, 21000] //2
-     // },
+     },
       {
         "avatar": "avatars/avatar_10.png",
         "username": "AncaD",
-        "text": "I am a Computer Science student, interested in Natural Language processing. Also a lover of loose leaf tea and a Semantic Web enthusiast. I’m curious about what this task is about.",
+        "text": "I am a Cognitive Science student, interested in Natural Language processing. Also a lover of loose leaf tea and a Semantic Web enthusiast. I’m curious about what this SONA task is about.",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
-      //{
-       // "avatar": "avatars/avatar_61.png",
-       // "username": "Nick",
-       // "text": "My life revolves around rock climbing. I started climbing when I was 12 (turning 18 soon) and usually climb 4-5 hours a day. Climbing never bores me, because each time is different – the routes, the weather, my strength and endurance. It’s great!",
-       // "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
-     // },
-    //{
-        //"avatar": "avatars/others/avatar_3.png",
-        //"username": "Mary",
-        //"text": "My name is Mary and I am 49 years old. I have a husband and 2 grown sons. My family and I lived in different countries. Our sons attended international schools wherever we went and since moving to China, I found work at those schools as well. Besides roaming around the world, I like playing games. Board games, cards, black jack or poker, mah jong, or silly games on Facebook, jig saws, basically anything",
-        //"likes": [20000, 25000, 95000] //3
-     // },
+      {
+       "avatar": "avatars/avatar_61.png",
+       "username": "Nick",
+       "text": "My life revolves around rock climbing. I started climbing when I was 12 (turning 19 soon) and usually climb 4-5 hours a week. Climbing never bores me, because each time is different – the routes, the weather, my strength and endurance. It’s great!",
+       "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
+      },
+    {
+        "avatar": "avatars/others/avatar_3.png",
+        "username": "Mary",
+        "text": "My name is Mary and I am 20 years old. My family and I lived in different countries. I am a Chinese international student. I like playing games online, especially random games on Facebook.",
+        "likes": [20000, 25000, 95000] //3
+     },
       {
         "avatar": "avatars/others/avatar_2.png",
         "username": "Lauren",
-        "text": "I’m Lauren, I love to hang out with friends and go shopping. Just doing some online studies here!",
+        "text": "I’m Lauren, I love to hang out with friends and go shopping. Just doing some online Sona studies here!",
         "likes": [12000, 38000] //1
       },
           {
@@ -57,16 +57,16 @@ window.others = {
         "text": "My name's Arjen, I study Artificial Intelligence. Also I like to use my free time to make all kinds of different things... I'm kind of a nerd too, I guess.",
         "likes": [12000, 40000, 120000] //3
       },
-      // {
-      //  "avatar": "avatars/others/avatar_18.png",
-      //  "username": "Heather",
-      //  "text": "Just now I'm finishing up my first year of a difficult science curriculum in university. I also work at a cosmetics counter as a part-time thing and earn some money online in my free time. I have a lot planned for my future, and it's really exciting. I want to grow up and be a doctor with a family of lots of little dogs. It'll be fantastic.",
-      //  "likes": [13000, 50000, 80000, 88000, 120000] //5
-     // },
+      {
+        "avatar": "avatars/others/avatar_18.png",
+        "username": "Heather",
+        "text": "Just now I'm finishing up my first year at UCI. I also work at a cosmetics counter as a part-time thing and earn some money online in my free time. I have a lot planned for my future. I want to grow up and be a doctor with a family of lots of little dogs. It'll be fantastic.",
+        "likes": [13000, 50000, 80000, 88000, 120000] //5
+     },
       {
         "avatar": "avatars/others/avatar_27.png",
         "username": "Jane",
-        "text": "Dear all, my name is Jane and I will soon have an important interview. This is all I can think about these days. I hope you're doing well",
+        "text": "My name is Jane and I will soon have an important interview. This is all I can think about these days. I hope you're doing well",
         "likes": [10000, 50000] //6
       },
 
