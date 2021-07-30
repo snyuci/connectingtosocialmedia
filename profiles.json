@@ -34,37 +34,37 @@ window.others = {
        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
       },
     {
-        "avatar": "avatars/others/avatar_3.png",
+        "avatar": "avatars/avatar_3.png",
         "username": "Mary",
-        "text": "My name is Mary and I am 20 years old. My family and I lived in different countries. I am a Chinese international student. I like playing games online, especially random games on Facebook.",
+        "text": "My name is Mary and I am 20 years old. My family and I live in different countries. I am a Chinese international student. I like playing games online, especially random games on Facebook.",
         "likes": [20000, 25000, 95000] //3
      },
       {
-        "avatar": "avatars/others/avatar_2.png",
+        "avatar": "avatars/avatar_2.png",
         "username": "Lauren",
         "text": "I’m Lauren, I love to hang out with friends and go shopping. Just doing some online Sona studies here!",
         "likes": [12000, 38000] //1
       },
           {
-        "avatar": "avatars/others/avatar_63.png",
+        "avatar": "avatars/avatar_63.png",
         "username": "Ky",
         "text": "Hey, guys. I'm 19, native Korean. I've been in America for about four years now.I consider myself pretty nice, though not a total angel. I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, using makeup, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
       },
       {
-        "avatar": "avatars/others/avatar_50.png",
+        "avatar": "avatars/avatar_50.png",
         "username": "Arjen",
         "text": "My name's Arjen, I study Artificial Intelligence. Also I like to use my free time to make all kinds of different things... I'm kind of a nerd too, I guess.",
         "likes": [12000, 40000, 120000] //3
       },
       {
-        "avatar": "avatars/others/avatar_18.png",
+        "avatar": "avatars/avatar_18.png",
         "username": "Heather",
         "text": "Just now I'm finishing up my first year at UCI. I also work at a cosmetics counter as a part-time thing and earn some money online in my free time. I have a lot planned for my future. I want to grow up and be a doctor with a family of lots of little dogs. It'll be fantastic.",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
      },
       {
-        "avatar": "avatars/others/avatar_27.png",
+        "avatar": "avatars/avatar_27.png",
         "username": "Jane",
         "text": "My name is Jane and I will soon have an important test. This is all I can think about these days. I hope you're doing well",
         "likes": [10000, 50000] //6
