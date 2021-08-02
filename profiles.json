@@ -4,7 +4,7 @@
 window.others = {
   "posts" : [
       {
-        "avatar": "avatars/avatar_30.png",
+        "avatar": "avatars/avatar_49.png",
         "username": "Georgeee",
         "text": "I'm a 19 year old dude from UC Irvine. I love music and lately you can catch me listening to nothing but Joy Division, Echo & the bunnymen, and the smiths. Besides music I like learning languages, psychology, drawing, and writing.",
         "likes": [45000, 50000, 110000, 150000] //4
@@ -46,9 +46,9 @@ window.others = {
         "likes": [12000, 38000] //1
       },
           {
-        "avatar": "avatars/avatar_63.png",
+        "avatar": "avatars/avatar_5.png",
         "username": "Ky",
-        "text": "Hey, guys. I'm 19, native Korean. I've been in America for about four years now.I consider myself pretty nice, though not a total angel. I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, using makeup, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
+        "text": "Hey, everyone. I'm 19, native Korean. I've been in America for about four years now.I consider myself pretty nice, though not a total angel. I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, using makeup, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
       },
       {
