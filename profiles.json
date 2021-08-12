@@ -5,70 +5,71 @@ window.others = {
   "posts" : [
       {
         "avatar": "avatars/avatar_49.png",
-        "username": "Georgeee",
-        "text": "I'm a 19 year old dude from UC Irvine. I love music and lately you can catch me listening to nothing but Joy Division, Echo & the bunnymen, and the smiths. Besides music I like learning languages, psychology, drawing, and writing.",
+        "username": "Liz",
+        "text": "I’m Liz and I am a psych major. I think I want to go into teaching one day and am hoping to volunteer at a school to see if that's something I want to do! My favorite thing to do is to get brunch and go on long walks. I want to try running more this year and hopefully find some pretty places to do so!",
         "likes": [45000, 50000, 110000, 150000] //4
       },
       {
-        "avatar": "avatars/avatar_2.png",
-        "username": "Sarah",
-        "text": "I’m Sarah. I started off as a history major but I recently switched to psychology. I want to get a job that helps young people with disabilities. During the pandemic I started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+        "avatar": "avatars/avatar_3.png",
+        "username": "Annaaa",
+        "text": "Hi everyone! My name is Anna and I'm a second year Criminology major! I love going on hikes, trying out new boba places, and hanging out with friends! I also like to play ukulele in my spare time and listen to new music! I LOVE K-dramas, K-drama OSTs and reading Webtoons too! I'm think I'm pretty extroverted and sarcastic all the time. I have an older brother, and 2 dogs. I'm currently aiming to go to graduate school after I finish college. Nice to meet you guys! ^-^",
+        "likes": [12000, 14000,35000,80000,100000,150000,20000] //7
       },
       {
         "avatar": "avatars/avatar_45.png",
-        "username": "John",
-        "text": "Hi. I’m 21 years old. I’ve been a computer science major for about 3 years. Don’t worry, I don’t have the dusty haircut, oversized buttoned shirt and nerdy big frame glasses. Looking forward to getting some extra credit with you all. Cheers, John",
+        "username": "Mark",
+        "text": "Hey, I'm Mark. I’m currently undecided but I’m thinking of switching into business econ. Some things about me are that I love hockey and am really into music. I play the guitar and am currently trying to learn the drums and I’m also thinking about starting a band.",
 		"likes": [20000, 21000] //2
      },
       {
         "avatar": "avatars/avatar_10.png",
         "username": "AncaD",
-        "text": "I am a Cognitive Science student, interested in Natural Language processing. Also a lover of loose leaf tea and a Semantic Web enthusiast. I’m curious about what this SONA task is about.",
+        "text": "I am a Cognitive Science major at UCSD, interested in Natural Language processing. Also a lover of loose leaf tea and a Semantic Web enthusiast. I’m curious what this SONA study is about.",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
       {
-       "avatar": "avatars/avatar_61.png",
-       "username": "Nick",
-       "text": "My life revolves around rock climbing. I started climbing when I was 12 (turning 19 soon) and usually climb 4-5 hours a week. Climbing never bores me, because each time is different – the routes, the weather, my strength and endurance. It’s great!",
+       "avatar": "avatars/avatar_9.png",
+       "username": "Tanvi",
+       "text": "Hi everyone!!! My name is Tanvi and I'm a junior at UCSC studying business management economics! I love going to the beach and spending time with my dogs :D and I'm a HUGE foodie, so ask me for any food recs! Some additional things about me are that I'm super clumsy and I love most movie genres (except horror). I've never done a Sona study before, but I'm excited to connect with you all!!",
        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
       },
     {
         "avatar": "avatars/avatar_3.png",
-        "username": "Mary",
-        "text": "My name is Mary and I am 20 years old. My family and I live in different countries. I am a Chinese international student. I like playing games online, especially random games on Facebook.",
+        "username": "Jess",
+        "text": "Hi! My name is Jessica, but everyone calls me Jess. I’m a second year Poli Sci student here at UCI and I’m also minoring in criminology. I love to read and will spend hours at Barnes and Noble or the library. I’m also a total Disney fan and will watch anything Marvel related! I’m excited to earn some much needed extra credit",
         "likes": [20000, 25000, 95000] //3
      },
       {
         "avatar": "avatars/avatar_2.png",
-        "username": "Lauren",
-        "text": "I’m Lauren, I love to hang out with friends and go shopping. Just doing some online Sona studies here!",
-        "likes": [12000, 38000] //1
+        "username": "Gabi",
+        "text": "Hello fellow study participants! My name is Gabi! I'm an anthropology major from LA, but my whole family is from Ukraine! I can speak Russian, and I'm also trying to learn Spanish. I'm really interested in environmental science and intersectional feminism, and I really want to get a tattoo one day. I also have a pet cat, and even though I like dogs and cats, I think I prefer cats a little more. Thanks for reading this far!",
+        "likes": [12000, 38000, 100000] //3
       },
           {
         "avatar": "avatars/avatar_5.png",
-        "username": "Ky",
-        "text": "Hey, everyone. I'm 19, native Korean. I've been in America for about four years now.I consider myself pretty nice, though not a total angel. I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, using makeup, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
+        "username": "Jade",
+        "text": "Hey my name is Jade and I am a first year at Cal. I am hoping to make lots of friends this year and spend more time at the beach. I love exploring new places and am quite a night owl. I love going on late night boba runs and watching movies :) Mental health awareness is really important to me which is why I want to either major or minor in Psychology",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
       },
       {
         "avatar": "avatars/avatar_50.png",
-        "username": "Arjen",
-        "text": "My name's Arjen, I study Artificial Intelligence. Also I like to use my free time to make all kinds of different things... I'm kind of a nerd too, I guess.",
+        "username": "Alex",
+        "text": "Hi everyone! I’m Alex and I am a business major and a psych minor. I am still uncertain what path I want to take after graduation however I am enjoying the classes I am in. In my free time I like to watch netflix true crime documentaries. I spend a lot of time at the beach and hope to live close to the beach next year!",
         "likes": [12000, 40000, 120000] //3
       },
       {
         "avatar": "avatars/avatar_18.png",
-        "username": "Heather",
-        "text": "Just now I'm finishing up my first year at UCI. I also work at a cosmetics counter as a part-time thing and earn some money online in my free time. I have a lot planned for my future. I want to grow up and be a doctor with a family of lots of little dogs. It'll be fantastic.",
+        "username": "Claire",
+        "text": "My name is Claire and I am a 3rd year dance major. I have danced my whole life and hope to move to NYC when I graduate to pursue a career in ballet. I love to go to the beach and tan with my friends. I also love getting to meet new people and am excited to be back in person.",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
      },
       {
         "avatar": "avatars/avatar_27.png",
-        "username": "Jane",
-        "text": "My name is Jane and I will soon have an important test. This is all I can think about these days. I hope you're doing well",
+        "username": "Ryan",
+        "text": "Hey guys! I'm Ryan and I'm a psych major. Some facts about me: I play basketball in my free time and bike around my city. I like watching sports. I pretty much like all genres of music but my favorites are rap, EDM, and rock. I wanna learn how to skateboard and I like going out for Mexican or Thai food.",
         "likes": [10000, 50000] //6
       },
 
     ]
   };
+
