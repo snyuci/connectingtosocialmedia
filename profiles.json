@@ -15,12 +15,6 @@ window.others = {
         "text": "Hey, I'm Mark. I’m currently undecided but I’m thinking of switching into the math-econ program. Some things about me are that I go to UCSD, love hockey, and am really into music. I play the guitar and am currently trying to learn the drums and I’m also thinking about starting a band. I'm taking an intro psych class and will probably need extra credit by the end of the quarter LOL",
 		"likes": [20000, 40000, 100000, 120000] //4
      },
-      {
-       "avatar": "avatars/avatar_9.png",
-       "username": "Tanvi",
-       "text": "Hi everyone!!! My name is Tanvi and I'm a junior at UCI studying business information management! I love going to the beach and spending time with my dogs :D and I'm a HUGE foodie, so ask me for any food recs! Some additional things about me are that I'm super clumsy and I love most movie genres (except horror). I've never done a Sona study before, but I'm excited to connect with you all!!",
-       "likes": [40000, 450000, 90000, 100000, 155000] //5
-      },
 	{
         "avatar": "avatars/avatar_18.png",
         "username": "Jade",
