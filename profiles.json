@@ -7,7 +7,7 @@ window.others = {
         "avatar": "avatars/avatar_8.png",
         "username": "Annaaa",
         "text": "Hi everyone! My name is Anna and I'm a second year Criminology major! I love going on hikes, trying out new boba places, and hanging out with friends! I also like to play ukulele in my spare time and listen to new music! I LOVE K-dramas, K-drama OSTs and reading Webtoons too! I'm think I'm pretty extroverted and sarcastic all the time. I have an older brother, and 2 dogs. I'm currently aiming to go to graduate school after I finish college. Nice to meet you guys! :D",
-        "likes": [16000, 35000, 80000, 95000, 100000,150000] //6
+        "likes": [16000, 35000, 80000, 95000, 150000] //5
       },
       {
         "avatar": "avatars/avatar_45.png",
@@ -19,19 +19,19 @@ window.others = {
         "avatar": "avatars/avatar_18.png",
         "username": "Jade",
         "text": "Hey my name is Jade and I am a first year at UC Santa Barbara. I am hoping to make lots of friends this year and spend more time at the beach. I love exploring new places and am quite a night owl. I love going on late night boba runs and watching movies :) Mental health awareness is really important to me which is why I want to either major or minor in Psychology.",
-        "likes": [20000, 50000, 88000, 110000, 12000, 97000] //6
+        "likes": [12000, 50000, 88000, 110000, 97000] //5
       },
       {
         "avatar": "avatars/avatar_1.png",
         "username": "Gabi",
         "text": "Hello fellow study participants! My name is Gabi! I'm an anthropology major from LA, but my whole family is from Ukraine! I can speak Russian, and I'm also trying to learn Spanish. I'm really interested in environmental science and intersectional feminism, and I really want to get a tattoo one day. I also have a pet cat, and even though I like dogs and cats, I think I prefer cats a little more. Thanks for reading this far!",
-        "likes": [18000, 38000,88000, 100000] //4
+        "likes": [18000, 38000, 88000] //3
       },
       {
         "avatar": "avatars/avatar_7.png",
         "username": "Jess",
         "text": "Hi! My name is Jessica, but everyone calls me Jess. I’m a second year Poli Sci student here at UCI and I’m also minoring in criminology. I love to read and will spend hours at Barnes and Noble or the library. I’m also a total Disney fan and will watch anything Marvel related! I’m excited to earn some much needed extra credit.",
-        "likes": [20000, 25000, 60000, 95000, 110000] //5
+        "likes": [19000, 50000, 95000, 110000] //4
      }, 
       {
         "avatar": "avatars/avatar_50.png",
