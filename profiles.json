@@ -4,21 +4,21 @@
 window.others = {
   "posts" : [
 	{
-        "avatar": "avatars/avatar_3.png",
+        "avatar": "avatars/avatar_6.png",
         "username": "Annaaa",
-        "text": "Hi everyone! My name is Anna and I'm a second year Criminology major! I love going on hikes, trying out new boba places, and hanging out with friends! I also like to play ukulele in my spare time and listen to new music! I LOVE K-dramas, K-drama OSTs and reading Webtoons too! I'm think I'm pretty extroverted and sarcastic all the time. I have an older brother, and 2 dogs. I'm currently aiming to go to graduate school after I finish college. Nice to meet you guys! ^-^",
+        "text": "Hi everyone! My name is Anna and I'm a second year Criminology major! I love going on hikes, trying out new boba places, and hanging out with friends! I also like to play ukulele in my spare time and listen to new music! I LOVE K-dramas, K-drama OSTs and reading Webtoons too! I'm think I'm pretty extroverted and sarcastic all the time. I have an older brother, and 2 dogs. I'm currently aiming to go to graduate school after I finish college. Nice to meet you guys! :D",
         "likes": [14000,35000,80000,100000,150000] //5
       },
       {
         "avatar": "avatars/avatar_45.png",
         "username": "Mark",
-        "text": "Hey, I'm Mark. I’m currently undecided but I’m thinking of switching into business econ. Some things about me are that I love hockey and am really into music. I play the guitar and am currently trying to learn the drums and I’m also thinking about starting a band.",
+        "text": "Hey, I'm Mark. I’m currently undecided but I’m thinking of switching into the math-econ program. Some things about me are that I go to UCSD, love hockey, and am really into music. I play the guitar and am currently trying to learn the drums and I’m also thinking about starting a band. I'm taking an intro psych class and will probably need EC by the end of the quarter LOL",
 		"likes": [20000, 40000, 100000] //3
      },
       {
        "avatar": "avatars/avatar_9.png",
        "username": "Tanvi",
-       "text": "Hi everyone!!! My name is Tanvi and I'm a junior at UCSD studying business management economics! I love going to the beach and spending time with my dogs :D and I'm a HUGE foodie, so ask me for any food recs! Some additional things about me are that I'm super clumsy and I love most movie genres (except horror). I've never done a Sona study before, but I'm excited to connect with you all!!",
+       "text": "Hi everyone!!! My name is Tanvi and I'm a junior at UCI studying business information management! I love going to the beach and spending time with my dogs :D and I'm a HUGE foodie, so ask me for any food recs! Some additional things about me are that I'm super clumsy and I love most movie genres (except horror). I've never done a Sona study before, but I'm excited to connect with you all!!",
        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
       },
     {
@@ -28,13 +28,13 @@ window.others = {
         "likes": [20000, 25000, 95000] //3
      },
       {
-        "avatar": "avatars/avatar_2.png",
+        "avatar": "avatars/avatar_1.png",
         "username": "Gabi",
         "text": "Hello fellow study participants! My name is Gabi! I'm an anthropology major from LA, but my whole family is from Ukraine! I can speak Russian, and I'm also trying to learn Spanish. I'm really interested in environmental science and intersectional feminism, and I really want to get a tattoo one day. I also have a pet cat, and even though I like dogs and cats, I think I prefer cats a little more. Thanks for reading this far!",
         "likes": [12000, 38000,88000, 100000] //4
       },
           {
-        "avatar": "avatars/avatar_5.png",
+        "avatar": "avatars/avatar_18.png",
         "username": "Jade",
         "text": "Hey my name is Jade and I am a first year at UC Santa Barbara. I am hoping to make lots of friends this year and spend more time at the beach. I love exploring new places and am quite a night owl. I love going on late night boba runs and watching movies :) Mental health awareness is really important to me which is why I want to either major or minor in Psychology.",
         "likes": [10000, 50000, 88000, 11000, 11500, 97000] //6
