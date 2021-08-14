@@ -187,7 +187,7 @@ $(function() {
 
 
   // **Slide:** **Login** **Screen**   
-  // Participant can continue after 8000ms = 8s      
+  // Participant can continue after 15000ms = 15s      
   function init_fb_login() {
   	$('#fb_login').show();
 	
@@ -195,7 +195,7 @@ $(function() {
   	setTimeout(function() {
   		$('#msg_all_done').show();
   		$("#loader").hide();
-  	}, 8000);
+  	}, 15000);
 	
   	$('#submit_fb_login').on('click',function() {
 			$('#fb_login').hide();
