@@ -4,13 +4,13 @@
 window.others = {
   "posts" : [
 	{
-        "avatar": "avatars/avatar_8.png",
+        "avatar": "avatars/avatar_20.png",
         "username": "Annaaa",
         "text": "Hi everyone! My name is Anna and I'm a second year Criminology major! I love going on hikes, trying out new boba places, and hanging out with friends! I also like to play ukulele in my spare time and listen to new music! I LOVE K-dramas, K-drama OSTs and reading Webtoons too! I'm think I'm pretty extroverted and sarcastic all the time. I have an older brother, and 2 dogs. I'm currently aiming to go to graduate school after I finish college. Nice to meet you guys! :D",
         "likes": [16000, 35000, 80000, 95000, 150000] //5
       },
       {
-        "avatar": "avatars/avatar_45.png",
+        "avatar": "avatars/avatar_63.png",
         "username": "Mark",
         "text": "Hey, I'm Mark. I’m currently undecided but I’m thinking of switching into the math-econ program. Some things about me are that I go to UCSD, love hockey, and am really into music. I play the guitar and am currently trying to learn the drums and I’m also thinking about starting a band. I'm taking an intro psych class and will probably need extra credit by the end of the quarter LOL",
 		"likes": [20000, 40000, 100000, 120000] //4
