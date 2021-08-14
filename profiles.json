@@ -21,24 +21,24 @@ window.others = {
        "text": "Hi everyone!!! My name is Tanvi and I'm a junior at UCI studying business information management! I love going to the beach and spending time with my dogs :D and I'm a HUGE foodie, so ask me for any food recs! Some additional things about me are that I'm super clumsy and I love most movie genres (except horror). I've never done a Sona study before, but I'm excited to connect with you all!!",
        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
       },
-    {
-        "avatar": "avatars/avatar_6.png",
-        "username": "Jess",
-        "text": "Hi! My name is Jessica, but everyone calls me Jess. I’m a second year Poli Sci student here at UCI and I’m also minoring in criminology. I love to read and will spend hours at Barnes and Noble or the library. I’m also a total Disney fan and will watch anything Marvel related! I’m excited to earn some much needed extra credit.",
-        "likes": [20000, 25000, 95000] //3
-     },
+	{
+        "avatar": "avatars/avatar_18.png",
+        "username": "Jade",
+        "text": "Hey my name is Jade and I am a first year at UC Santa Barbara. I am hoping to make lots of friends this year and spend more time at the beach. I love exploring new places and am quite a night owl. I love going on late night boba runs and watching movies :) Mental health awareness is really important to me which is why I want to either major or minor in Psychology.",
+        "likes": [10000, 50000, 88000, 110000, 12000, 97000] //6
+      },
       {
         "avatar": "avatars/avatar_1.png",
         "username": "Gabi",
         "text": "Hello fellow study participants! My name is Gabi! I'm an anthropology major from LA, but my whole family is from Ukraine! I can speak Russian, and I'm also trying to learn Spanish. I'm really interested in environmental science and intersectional feminism, and I really want to get a tattoo one day. I also have a pet cat, and even though I like dogs and cats, I think I prefer cats a little more. Thanks for reading this far!",
         "likes": [12000, 38000,88000, 100000] //4
       },
-          {
-        "avatar": "avatars/avatar_18.png",
-        "username": "Jade",
-        "text": "Hey my name is Jade and I am a first year at UC Santa Barbara. I am hoping to make lots of friends this year and spend more time at the beach. I love exploring new places and am quite a night owl. I love going on late night boba runs and watching movies :) Mental health awareness is really important to me which is why I want to either major or minor in Psychology.",
-        "likes": [10000, 50000, 88000, 11000, 11500, 97000] //6
-      },
+      {
+        "avatar": "avatars/avatar_7.png",
+        "username": "Jess",
+        "text": "Hi! My name is Jessica, but everyone calls me Jess. I’m a second year Poli Sci student here at UCI and I’m also minoring in criminology. I love to read and will spend hours at Barnes and Noble or the library. I’m also a total Disney fan and will watch anything Marvel related! I’m excited to earn some much needed extra credit.",
+        "likes": [20000, 25000, 95000] //3
+     }, 
       {
         "avatar": "avatars/avatar_50.png",
         "username": "Alex",
