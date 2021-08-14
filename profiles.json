@@ -7,7 +7,7 @@ window.others = {
         "avatar": "avatars/avatar_8.png",
         "username": "Annaaa",
         "text": "Hi everyone! My name is Anna and I'm a second year Criminology major! I love going on hikes, trying out new boba places, and hanging out with friends! I also like to play ukulele in my spare time and listen to new music! I LOVE K-dramas, K-drama OSTs and reading Webtoons too! I'm think I'm pretty extroverted and sarcastic all the time. I have an older brother, and 2 dogs. I'm currently aiming to go to graduate school after I finish college. Nice to meet you guys! :D",
-        "likes": [14000,35000,80000,100000,150000] //5
+        "likes": [14000, 35000, 80000, 95000, 100000,150000] //6
       },
       {
         "avatar": "avatars/avatar_45.png",
@@ -37,13 +37,13 @@ window.others = {
         "avatar": "avatars/avatar_7.png",
         "username": "Jess",
         "text": "Hi! My name is Jessica, but everyone calls me Jess. I’m a second year Poli Sci student here at UCI and I’m also minoring in criminology. I love to read and will spend hours at Barnes and Noble or the library. I’m also a total Disney fan and will watch anything Marvel related! I’m excited to earn some much needed extra credit.",
-        "likes": [20000, 25000, 95000, 110000] //4
+        "likes": [20000, 25000, 60000, 95000, 110000] //5
      }, 
       {
         "avatar": "avatars/avatar_50.png",
         "username": "Alex",
         "text": "Hi everyone! I’m Alex and I am a business major and a psych minor. I am still uncertain what path I want to take after graduation however I am enjoying the classes I am in. Some facts about me: I play basketball in my free time and I like watching sports. I pretty much like all genres of music but my favorites are rap, EDM, and rock.",
-        "likes": [12000, 40000, 120000] //3
+        "likes": [40000, 70000, 120000] //3
       },
     ]
   };
