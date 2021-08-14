@@ -37,7 +37,7 @@ window.others = {
         "avatar": "avatars/avatar_5.png",
         "username": "Jade",
         "text": "Hey my name is Jade and I am a first year at UC Santa Barbara. I am hoping to make lots of friends this year and spend more time at the beach. I love exploring new places and am quite a night owl. I love going on late night boba runs and watching movies :) Mental health awareness is really important to me which is why I want to either major or minor in Psychology.",
-        "likes": [10000, 50000, 88000, 11000, 11500, 97000] //7
+        "likes": [10000, 50000, 88000, 11000, 11500, 97000] //6
       },
       {
         "avatar": "avatars/avatar_50.png",
